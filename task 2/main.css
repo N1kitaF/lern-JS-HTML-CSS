@@ -1,7 +1,6 @@
 
 .header {
 background-color: red;
-
 text-align: center;
 margin: 10px;
 margin-bottom: -16px;
@@ -10,12 +9,12 @@ margin-bottom: -16px;
 .nav {
 background-color: yellow;
 text-align: center;
-
+height: 37px;
+padding-top: 21px;
 }
 .nav li {
-    display: inline;
-    
- }
+display: inline-block;
+}
 
 .main {
 padding: 10px;
@@ -25,10 +24,10 @@ margin-bottom: -16px;
 }
 
 article {
-    background-color: blue;
-    margin: 10px;
-    padding: 10px;
-    font-size: 20px;
+background-color: blue;
+margin: 10px;
+padding: 10px;
+font-size: 20px;
 }
 
 
