@@ -4,6 +4,7 @@ background-color: red;
 
 text-align: center;
 margin: 10px;
+margin-bottom: -16px;
 }
 
 .nav {
@@ -19,7 +20,8 @@ text-align: center;
 .main {
 padding: 10px;
 background-color: green;
-margin: -10px;
+margin: 10px;
+margin-bottom: -16px;
 }
 
 article {
@@ -36,5 +38,5 @@ text-align: center;
 color: white;
 
 font-size: 30px;
-margin: 10px 0px 0px 0px;
+margin: 10px;
 }
